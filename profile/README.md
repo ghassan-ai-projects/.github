@@ -10,6 +10,7 @@ Here is a curated list of our open-source tools and infrastructure, designed to 
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
+| [**alms**](https://github.com/ghassan-ai-projects/alms) | Agent Learning Management System for agent registry and cross-agent learning transfer. | `Go` | Public |
 | [**office-automation-mcp**](https://github.com/ghassan-ai-projects/office-automation-mcp) | **Model Context Protocol (MCP)** server for PowerPoint/Office automation — agent-ready slide generation via `python-pptx`. | `Python` | Public |
 | [**a2a-negotiation-mcp**](https://github.com/ghassan-ai-projects/a2a-negotiation-mcp) | Headless **MCP** server for agent-to-agent (A2A) SaaS pricing negotiation. | `Go` | Public |
 | [**go-project-blueprint**](https://github.com/ghassan-ai-projects/go-project-blueprint) | Industry-best configuration files for Go projects: `AGENTS.md`, linters, CI, and pre-commit hooks — the ultimate coding-agent onboarding kit. | `Makefile` | Public |
